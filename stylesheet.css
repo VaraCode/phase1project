@@ -1,0 +1,347 @@
+body {
+    background-color: #0d0d0d;
+    color:#f2f2f2;
+    width: 960px;
+    
+    
+}
+
+/*Header Navigation */
+
+ul {
+
+    text-align: center;
+    padding: 20px;
+    width: 960px;
+    border: 2px solid #f2f2f2; 
+
+   
+}
+
+#headernavigation {
+    padding-bottom: 75px;
+    position: absolute;
+    float: clear;
+    width: 960px;
+    display: inline;
+    top:0;
+
+}
+
+li {
+    display: inline;
+    width:960px;
+    text-align: center;
+    color: #f2f2f2;
+    font-size: 20px;
+    white-space: nowrap;
+    padding: 15px;
+    text-decoration: none;
+    border: 1px solid #e6e6e6;
+    font-weight: 800;
+
+
+}
+
+
+
+
+/* INDEX HOME PAGE */
+
+
+h1 {
+    color:#f2f2f2;
+    text-align: center;
+    font-size: 65px;
+    font-family: 'Merriweather Sans', sans-serif
+}
+
+h2 {
+    color:#f2f2f2;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 30px;
+    font-family: 'Merriweather Sans', sans-serif
+}
+
+h3 {
+     color:#f2f2f2;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: 'Merriweather Sans', sans-serif
+}
+
+.title1 {
+    margin: auto;
+    width: 80%;
+    padding-bottom: 20px;
+    padding-top: 150px;
+}
+
+.image1 {
+
+    width: 70%;
+    margin: auto;
+
+}
+
+.citation1 {
+    padding-top: 20px;
+    text-align: center;
+    width:52%;
+    margin: auto;
+    font-family: 'Libre Baskerville', serif;
+
+}
+
+cite {
+    font-weight:bold;
+    font-style: italic;
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+
+/* About */
+
+.abouttitle {
+    padding-top: 60px;
+    width: 97%;
+    
+}
+
+.aboutimg1{
+   float: left;
+   width: 25%;
+    
+}
+
+.aboutp1 {
+    float: right;
+    width: 35%;
+    text-align: justify;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.aboutimg2 {
+    padding-top: 30px;
+    padding-left: 10px;
+    float: right;
+    width: 45%;
+    height: 25%;
+}
+
+.aboutp2 {
+    padding-top: 85px;
+    float:left;
+    width:50%;
+    text-align: justify;
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+.aboutimg3 {
+    padding-top: 90px;
+    float: left;
+    width:35%;
+
+}
+
+.aboutp3 {
+    float: right;
+    width:33%;
+    text-align: justify;
+    font-family: 'Libre Baskerville', serif;
+    position: relative;
+
+}
+
+/* Dorothea Lange - Migrant Mother */
+
+a {
+    text-decoration: #a3a375;
+}
+
+a:link {
+    color: #a3a375;
+    font-weigh: bold;
+}
+
+.dorothealangetitle {
+    padding-top: 65px;
+    width: 97%;
+}
+
+.dlimage1 {
+    text-align: center;
+}
+
+.dlparagraph1 {
+    padding-top: 15px;
+    width: 45%;
+    text-align: justify;
+    float: left;
+    font-family: 'Libre Baskerville', serif;
+    padding-bottom: 100px;
+
+}
+
+
+.dlparagraph2 {
+    padding-top: 15px;
+    width: 45%;
+    text-align: justify;
+    float: right;
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+
+/*Migrant Homes*/
+
+.migranthomes {
+    padding-top: 45px;
+}
+
+.migranthometitles {
+    padding-top: 50px;
+    width: 97%;
+
+}
+
+.migrantvideo {
+    display: block;
+    text-align: center;
+}
+
+.migrantimg1 {
+    padding-top: 75px;
+    float: left;
+    width: 30%;
+}
+
+.migrantimg2 {
+    padding-top: 125px;
+    float: right;
+    width: 50%;
+    
+}
+
+.migrantimg3 {
+    float: left;
+    width: 45%;
+
+}
+
+.migranthomesp1 {
+    padding-top: 50px;
+    float: right;
+    width: 94%;
+    text-align: justify;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.migranthomesp2 {
+    padding-top: 100px;
+    padding-left: 100px;
+    width: 20%;
+    float: right;
+    position: relative;
+    text-align: justify;
+    font-family: 'Libre Baskerville', serif;
+    
+
+}
+
+.migranthomesp3 {
+    float: right;
+    width:70%;
+    text-align: justify;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+
+
+
+/* Ex-Slave: Long Memories */
+
+
+.exslavetitle {
+    padding-top: 75px;
+    width: 97%;
+
+}
+    
+.exslaveimg1 {
+    float: left;
+    width: 75%;
+}
+
+.exslavep1 {
+    width: 65%;
+    float: right;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    text-align: justify;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.exslaveimg2 {
+    float: right;
+    width: 55%;
+}
+
+/* The Struggle for African-American Women */
+
+.aawgdtitle {
+    padding-top: 65px;
+    width: 97%;
+    padding-bottom: 20px;
+}
+
+.aawimg1 {
+    padding-bottom: 100px;
+    float: right;
+    width: 48%;
+}
+
+.aawp1 {
+    padding-top: 40px;
+    font-family: 'Libre Baskerville', serif;
+    width: 50%;
+    text-align: justify;
+    
+}
+
+.aawimg2 {
+    padding-right: 100px;
+    float: left;
+    width: 46%;
+}
+
+.aawp2 {
+    float: right;
+    width: 30%;
+    position: relative;
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+.aawimg3 {
+    float: right;
+    width: 45%;
+    padding-top: 100px;
+}
+
+.aawp3 {
+    float: left;
+    padding-top: 100px;
+    width: 45%;
+    font-family: 'Libre Baskerville', serif;
+    text-align: justify;
+}
+
+
+
+
